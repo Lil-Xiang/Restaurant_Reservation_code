@@ -71,4 +71,4 @@ npm run test:unit
     - Vitest
     - element-plus
     - element-plus/icons
-    - Tailwind CSS# restaurant_reservation_code
+    - Tailwind CSS
